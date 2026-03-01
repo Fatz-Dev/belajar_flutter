@@ -1,0 +1,9 @@
+{
+    "hello": "Hello",
+    "welcome": "Welcome to our application!",
+    "goodbye": "Goodbye",
+    "thank_you": "Thank you for using our app!",
+    "app_name": "My Flutter App",
+    "login": "Login",
+    "signup": "Sign Up"
+}
